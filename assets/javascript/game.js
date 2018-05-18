@@ -1,3 +1,6 @@
+document.addEventListener("DOMContentLoaded", function(event) { 
+    
+  
 console.log("testing");
 
 //array of letters that will be used to guess
@@ -69,4 +72,4 @@ console.log(alphabet);
     }
 
  };
-
+});
